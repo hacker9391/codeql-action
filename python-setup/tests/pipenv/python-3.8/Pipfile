@@ -10,3 +10,4 @@ requests = "*"
 
 [requires]
 python_version = "3.8"
+codeql-action/python-setup/tests/pipenv/python-3.8/Pipfile
